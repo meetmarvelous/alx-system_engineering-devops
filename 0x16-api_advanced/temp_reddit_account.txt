@@ -1,2 +1,0 @@
-temp_username: Careful-bro
-temp_pass: 10203040506070809010
